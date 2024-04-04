@@ -1,0 +1,35 @@
+.real
+{
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    margin: 20px ;
+    padding: 20px 100px 20px 100px;
+
+}
+.real p
+{
+    text-align: justify;
+}
+.one
+{
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    height: 35;
+    width: 40;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    padding-top:  30px;
+
+
+}
+.two
+{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    padding-top: 30px;
+}
